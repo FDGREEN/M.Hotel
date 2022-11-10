@@ -1,3 +1,0 @@
-nome = (input())
-print(nome)
-
